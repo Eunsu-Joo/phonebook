@@ -1,16 +1,11 @@
 # phonebook
 
-A new Flutter project.
+첫 플루터 프로젝트
 
-## Getting Started
+## Functions
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Filter 기능 (오름차순, 내림차순)
+- 유저 연락처 권한 요청 및 연락처 정보 활용
+- 연락처 추가, 삭제, 정렬
+- 연락처 수정 ( 아직 개발 전 )
+- 연락처 이미지 삽입 (아직 개발 전)
